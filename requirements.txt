@@ -1,0 +1,5 @@
+streamlit==1.10.0
+torch==1.11.0
+transformers==4.11.0
+re
+json
