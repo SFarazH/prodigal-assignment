@@ -1,4 +1,6 @@
+pip --upgrade
+
 streamlit==1.10.0
 torch
-transformers>=4.29.2
-tokenizers>=0.11.1,<0.14
+transformers=4.29.2
+tokenizers==0.10.3 --only-binary :all:
