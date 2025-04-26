@@ -1,4 +1,4 @@
-pip --upgrade
+pip install --upgrade pip
 
 streamlit==1.10.0
 torch
