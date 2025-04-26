@@ -1,4 +1,4 @@
 streamlit==1.10.0
 torch
+tokenizers==0.19.1
 transformers==4.29.2
-tokenizers==0.10.3 --only-binary :all:
